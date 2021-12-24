@@ -1,65 +1,55 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Solver
 
-# Project Name
+**This is a TDD project**
+Solver App that has 3 methods :
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+**factorial**
+**reverse**
+**fizzbuzz**
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- clone git@github.com:AmineHLub/tdd-project-solver.git
+- cd tdd-project-solver
 
+## Requirements
 
-To get a local copy up and running follow these simple example steps.
+- make sure ruby is installed at at least version 2.0
 
-### Prerequisites
+## Run
 
-### Setup
+- create instance of solver class, and you can use its methods
 
-### Install
+## TEST
 
-### Usage
+- Run `rspec`
 
-### Run tests
-
-### Deployment
-
-
+- **PS : You need to have rspec gem installed**
 
 ## Authors
 
-👤 **Author1**
+👤 **Mohamed Amine Hajltaief**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AmineHLub](https://github.com/AmineHLub)
+- Twitter: [@Amino47612441](https://twitter.com/Amino47612441)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hajltaief-b18863163/)
 
-👤 **Author2**
+👤 **Busiwa24**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: (https://github.com/Busiwa24) 
+- Twitter: (https://twitter.com/busiwaliuma) 
+- LinkedIn: (https://www.linkedin.com/in/busiwa-liuma-)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../../issues).
 
 ## Show your support
 
@@ -67,9 +57,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- A special thanks to Microverse.
+- A special thanks goes to all our peers at Microverse for being there for us.
 
 ## 📝 License
 
